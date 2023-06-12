@@ -1,0 +1,7 @@
+[x] Implementar a transformada e a transformada inversa discreta do cosseno;
+[x] Realizar testes com imagens de sua preferência;
+[ ] Implementar os filtros passa-baixas e passa-altas ideais;
+[ ] Gerar um ruído periódico em uma imagem de sua preferência e testar o funcionamento dos filtros passa-baixas e passa-altas implementados;
+[ ] Criar um ruído no espectro da frequência obtido com a transformada discreta do cosseno e verificar o resultado no domínio espacial;
+
+https://slideplayer.com.br/slide/337776/
